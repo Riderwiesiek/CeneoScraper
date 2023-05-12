@@ -17,4 +17,4 @@
 
 ## Wykorzystane biblioteki python'a
 - Request
-- Beautifulsoup
+- BeautifulSoup
